@@ -1,7 +1,7 @@
 @{
-    RootModule        = 'WinSecBaseline.psm1'
-    NestedModules     = @('WinSecBaseline.Comparison.psm1')
-    ModuleVersion     = '2.2.0'
+    RootModule        = ''
+    NestedModules     = @('WinSecBaseline.psm1','WinSecBaseline.Comparison.psm1')
+    ModuleVersion     = '2.2.1'
     GUID              = '39d58815-7d24-4f86-9695-6a24f1ac7993'
     Author            = 'Dewald Pretorius'
     CompanyName       = 'Community'
