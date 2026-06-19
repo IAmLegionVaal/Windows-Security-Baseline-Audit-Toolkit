@@ -1,0 +1,11 @@
+{
+  "Classification": "SIMULATED PORTFOLIO DATA",
+  "ComputerName": "WS-SEC-01",
+  "Defender": { "RealtimeProtectionEnabled": true },
+  "Firewall": { "DomainEnabled": true, "PrivateEnabled": true, "PublicEnabled": false },
+  "BitLocker": { "OsVolumeProtected": false },
+  "DeviceSecurity": { "SecureBootEnabled": true },
+  "PowerShell": { "ScriptBlockLoggingEnabled": false },
+  "Protocols": { "Smb1Enabled": true },
+  "RemoteAccess": { "RdpNlaRequired": false }
+}
