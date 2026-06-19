@@ -1,0 +1,7 @@
+{
+  "Classification": "SIMULATED PORTFOLIO DATA",
+  "Defender": { "RealTimeProtectionEnabled": false },
+  "Firewall": { "AllProfilesEnabled": true },
+  "BitLocker": { "OsVolumeProtected": false },
+  "PowerShell": { "ScriptBlockLoggingEnabled": false }
+}
